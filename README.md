@@ -10,6 +10,6 @@
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ByteCrister/Motion-Animation-Next.js-1.1.git
 cd <project-directory>
 npm install
